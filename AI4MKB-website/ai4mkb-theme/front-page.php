@@ -1,0 +1,214 @@
+<?php get_header(); ?>
+
+<main>
+  <section class="hero fade-in-up">
+    <div class="container hero-inner">
+      <div class="hero-text">
+        <div class="hero-kicker">Praktische AI voor het MKB</div>
+        <h1>Maak AI concreet voor jouw MKB-bedrijf</h1>
+        <p>
+          AI4MKB is een organisatie uit Weert die ondernemers helpt om kunstmatige
+          intelligentie praktisch in te zetten. Van het automatiseren van
+          repeterende processen tot het slimmer benutten van je data.
+        </p>
+        <div class="hero-actions">
+          <a href="#contact" class="btn btn-primary">Plan een kennismaking</a>
+          <a href="#diensten" class="btn btn-secondary">Bekijk diensten</a>
+        </div>
+        <p class="hero-sub">
+          Toegankelijke AI, zonder vakjargon. Gericht op resultaat, niet op hype.
+        </p>
+      </div>
+      <div class="hero-visual">
+        <div class="card metric-card reveal">
+          <p class="metric-label">Tijdswinst in processen</p>
+          <p class="metric-value">20–40%</p>
+          <p class="metric-caption">door slimme automatisering</p>
+        </div>
+        <div class="card metric-card secondary reveal">
+          <p class="metric-label">Snellere beslissingen</p>
+          <p class="metric-caption">
+            dankzij inzichtelijke dashboards en datagedreven werken
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="over" class="section">
+    <div class="container two-column">
+      <div class="reveal">
+        <h2>Over AI4MKB</h2>
+        <p>
+          AI4MKB combineert technische kennis met praktische toepasbaarheid. We begrijpen
+          dat je als ondernemer geen tijd hebt voor ingewikkelde trajecten of dikke
+          rapporten. Je wilt concrete oplossingen die echt verschil maken in je
+          dagelijkse operatie.
+        </p>
+      </div>
+      <div class="highlight-box reveal">
+        <h3>Toegankelijke AI voor iedereen</h3>
+        <ul>
+          <li>Geen ingewikkelde buzzwords, maar heldere uitleg</li>
+          <li>Stap-voor-stap begeleiding van idee tot implementatie</li>
+          <li>Oplossingen die passen bij de schaal van jouw bedrijf</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="diensten" class="section section-alt">
+    <div class="container">
+      <h2 class="reveal">Diensten</h2>
+      <p class="section-intro reveal">
+        We helpen je om kansen voor AI in jouw organisatie te herkennen én te realiseren.
+      </p>
+      <div class="grid-3">
+        <div class="card reveal">
+          <h3>Procesautomatisering</h3>
+          <p>
+            Automatiseer terugkerende handelingen, zoals e-mails verwerken,
+            offertes opstellen of data overtypen tussen systemen.
+          </p>
+          <ul>
+            <li>Inventarisatie van huidige processen</li>
+            <li>Proof-of-concept binnen enkele weken</li>
+            <li>Integratie met bestaande tools waar mogelijk</li>
+          </ul>
+        </div>
+        <div class="card reveal">
+          <h3>Data-analyse & dashboards</h3>
+          <p>
+            Maak betere beslissingen op basis van data die je al hebt, met
+            duidelijke dashboards en AI-gedreven inzichten.
+          </p>
+          <ul>
+            <li>Dashboards op maat (bijv. Power BI)</li>
+            <li>Voorspellende analyses (zoals vraag of bezetting)</li>
+            <li>Training in datagedreven werken</li>
+          </ul>
+        </div>
+        <div class="card reveal">
+          <h3>AI-strategie & advies</h3>
+          <p>
+            Weet je dat je “iets met AI” wilt, maar nog niet waar te beginnen?
+            We begeleiden je van eerste idee tot concreet plan.
+          </p>
+          <ul>
+            <li>Inspiratiesessies op locatie of online</li>
+            <li>Roadmap voor de komende 6–12 maanden</li>
+            <li>Begeleiding bij selectie van tools en leveranciers</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="werkwijze" class="section">
+    <div class="container">
+      <h2 class="reveal">Onze werkwijze</h2>
+      <div class="steps">
+        <div class="step reveal">
+          <span class="step-number">1</span>
+          <div>
+            <h3>Verkennen</h3>
+            <p>
+              We maken kennis met jouw bedrijf, processen en doelen. Samen
+              bepalen we waar AI het meeste impact kan maken.
+            </p>
+          </div>
+        </div>
+        <div class="step reveal">
+          <span class="step-number">2</span>
+          <div>
+            <h3>Bewijzen</h3>
+            <p>
+              We ontwikkelen een compacte proof-of-concept, zodat je snel ziet
+              wat er mogelijk is, zonder groot risico.
+            </p>
+          </div>
+        </div>
+        <div class="step reveal">
+          <span class="step-number">3</span>
+          <div>
+            <h3>Schaalbaar maken</h3>
+            <p>
+              Werkt het? Dan zorgen we voor een robuuste implementatie,
+              begeleiding van je team en verdere optimalisatie.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="cases" class="section section-alt">
+    <div class="container">
+      <h2 class="reveal">Voorbeelden uit de praktijk</h2>
+      <p class="section-intro reveal">
+        Hier is ruimte voor concrete klantcases, zodra je die wilt toevoegen.
+        Denk aan een logistiek bedrijf, een dienstverlener of een lokaal
+        productiebedrijf.
+      </p>
+      <div class="grid-3">
+        <div class="card muted reveal">
+          <p><strong>Case 1</strong> – Procesversnelling in administratie</p>
+        </div>
+        <div class="card muted reveal">
+          <p><strong>Case 2</strong> – Betere bezettingsplanning via AI</p>
+        </div>
+        <div class="card muted reveal">
+          <p><strong>Case 3</strong> – Klantserviceondersteuning met AI-assistent</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="section contact-section">
+    <div class="container two-column">
+      <div class="reveal">
+        <h2>Plan een vrijblijvende kennismaking</h2>
+        <p>
+          Wil je verkennen wat AI voor jouw organisatie kan betekenen? Vul je
+          gegevens in of stuur direct een e-mail, dan nemen we contact met je op.
+        </p>
+        <p><strong>E-mail:</strong> <a href="mailto:info@ai4mkb.nl">info@ai4mkb.nl</a></p>
+      </div>
+      <div class="reveal">
+        <form class="contact-form">
+          <div class="form-row">
+            <label for="naam">Naam</label>
+            <input id="naam" name="naam" type="text" placeholder="Jouw naam" />
+          </div>
+          <div class="form-row">
+            <label for="bedrijf">Bedrijf</label>
+            <input id="bedrijf" name="bedrijf" type="text" placeholder="Bedrijfsnaam" />
+          </div>
+          <div class="form-row">
+            <label for="email">E-mailadres</label>
+            <input id="email" name="email" type="email" placeholder="jij@bedrijf.nl" />
+          </div>
+          <div class="form-row">
+            <label for="vraag">Waar kunnen we je mee helpen?</label>
+            <textarea
+              id="vraag"
+              name="vraag"
+              rows="4"
+              placeholder="Beschrijf kort je uitdaging of idee."
+            ></textarea>
+          </div>
+          <button type="button" class="btn btn-primary btn-full">
+            Verstuur (voorbeeld, nog niet gekoppeld)
+          </button>
+          <p class="form-note">
+            Deze demo-knop verstuurt nog geen echte gegevens. De logica hiervoor
+            kun je later eenvoudig toevoegen (bijvoorbeeld via een formulier-plugin).
+          </p>
+        </form>
+      </div>
+    </div>
+  </section>
+</main>
+
+<?php get_footer(); ?>
+
